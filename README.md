@@ -1,5 +1,4 @@
 # FreakiClean
-FreakiClean
 
 # Un ordinateur plus rapide
 
